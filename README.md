@@ -13,10 +13,8 @@ pip install requirements.txt
 
 
 ## Usage
-
-
 Generate masks from trained models
-
+1. https://drive.google.com/file/d/1UFyh-Sa2dsgyd8veDpqcvigdkmJcL1Xi/view?usp=sharing
 
 run generate.py --experiment-name nodule2_64 --gpu
 
