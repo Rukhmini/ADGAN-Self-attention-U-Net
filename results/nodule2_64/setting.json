@@ -1,0 +1,31 @@
+{
+  "attr_path": "./data/list_attr_celeba.txt",
+  "batch_size": 2,
+  "beta1": 0.5,
+  "beta2": 0.999,
+  "d_iters": 3,
+  "data_path": "./data/celeba",
+  "experiment_name": "nodule2_64",
+  "gpu": true,
+  "image_size": 128,
+  "l1": 20,
+  "l2": 100,
+  "lgp": 10,
+  "lr": 0.0002,
+  "mask_path": "./data/rad_lbl_64",
+  "mlist_path": "./data/mask_img_list.txt",
+  "num_samples": 64,
+  "sample_ticks": 100,
+  "save_ticks": 1000,
+  "target_attr": [
+    "Subtelity",
+    "Sphericity",
+    "Margin",
+    "Lobulation",
+    "Spiculation",
+    "Texture",
+    "Malignancy"
+  ],
+  "tick_kimg": 5.0,
+  "total_kimg": 20
+}
