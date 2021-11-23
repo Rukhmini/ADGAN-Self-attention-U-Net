@@ -1,4 +1,4 @@
-# Attribute Driven Generative Adversarial Network (self-attention u-net)
+# ADGAN-Self-attention U-Net
 
 
 
